@@ -1,0 +1,7 @@
+D:\Clase1-11-08-2026\Clase4-StructyString\Clase4EjemploStruct\EjemploStruct\bin\Debug\EjemploStruct.exe.config
+D:\Clase1-11-08-2026\Clase4-StructyString\Clase4EjemploStruct\EjemploStruct\bin\Debug\EjemploStruct.exe
+D:\Clase1-11-08-2026\Clase4-StructyString\Clase4EjemploStruct\EjemploStruct\bin\Debug\EjemploStruct.pdb
+D:\Clase1-11-08-2026\Clase4-StructyString\Clase4EjemploStruct\EjemploStruct\obj\Debug\EjemploStruct.csproj.AssemblyReference.cache
+D:\Clase1-11-08-2026\Clase4-StructyString\Clase4EjemploStruct\EjemploStruct\obj\Debug\EjemploStruct.csproj.CoreCompileInputs.cache
+D:\Clase1-11-08-2026\Clase4-StructyString\Clase4EjemploStruct\EjemploStruct\obj\Debug\EjemploStruct.exe
+D:\Clase1-11-08-2026\Clase4-StructyString\Clase4EjemploStruct\EjemploStruct\obj\Debug\EjemploStruct.pdb
