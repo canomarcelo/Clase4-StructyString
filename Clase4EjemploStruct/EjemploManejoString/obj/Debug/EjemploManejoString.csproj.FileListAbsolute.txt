@@ -1,0 +1,7 @@
+D:\Clase1-11-08-2026\Clase4-StructyString\Clase4EjemploStruct\EjemploManejoString\bin\Debug\EjemploManejoString.exe.config
+D:\Clase1-11-08-2026\Clase4-StructyString\Clase4EjemploStruct\EjemploManejoString\bin\Debug\EjemploManejoString.exe
+D:\Clase1-11-08-2026\Clase4-StructyString\Clase4EjemploStruct\EjemploManejoString\bin\Debug\EjemploManejoString.pdb
+D:\Clase1-11-08-2026\Clase4-StructyString\Clase4EjemploStruct\EjemploManejoString\obj\Debug\EjemploManejoString.csproj.AssemblyReference.cache
+D:\Clase1-11-08-2026\Clase4-StructyString\Clase4EjemploStruct\EjemploManejoString\obj\Debug\EjemploManejoString.csproj.CoreCompileInputs.cache
+D:\Clase1-11-08-2026\Clase4-StructyString\Clase4EjemploStruct\EjemploManejoString\obj\Debug\EjemploManejoString.exe
+D:\Clase1-11-08-2026\Clase4-StructyString\Clase4EjemploStruct\EjemploManejoString\obj\Debug\EjemploManejoString.pdb
